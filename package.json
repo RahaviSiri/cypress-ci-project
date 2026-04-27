@@ -1,0 +1,17 @@
+{
+  "name": "cypress-ci-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "cypress": "^15.14.1",
+    "live-server": "^1.2.2"
+  }
+}
